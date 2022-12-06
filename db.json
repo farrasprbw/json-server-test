@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "qty": 20
+    },
+    {
+      "id": 2,
+      "qty": 24
+    },
+    {
+      "id": 3,
+      "qty": 30
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
